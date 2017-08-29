@@ -1,10 +1,22 @@
 .prvni {
 	text-align: center;
 	font-size: 80px;
+	background-image: 
 	
 }
 
 .druhy {
-	font: Verdanaerdana;
+	font: Verdana;
 	font-size: 50px;
+	border-style: double;
+}
+
+.hlavni {
+		text-align: center;
+		text-transform: uppercase;
+}
+
+
+.texthlavni {
+	text-align: justify;
 }
