@@ -7,8 +7,9 @@
 
 .druhy {
 	font: Verdana;
-	font-size: 50px;
+	font-size: 45px;
 	border-style: double;
+	border-width: 2px;
 }
 
 .hlavni {
@@ -18,5 +19,12 @@
 
 
 .texthlavni {
-	text-align: justify;
+	text-align: center;
 }
+
+
+.hlmesto {
+		text-align: center;
+		font-family: Times New Roman;
+}
+
